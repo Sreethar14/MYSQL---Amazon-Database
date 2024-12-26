@@ -1,0 +1,77 @@
+customer_name,email,product_name,total_quantity
+"Alice Johnson",alice.j@example.com,"Smart Doorbell",13
+"Bob Smith",bob.s@example.com,"Nonstick Pan",18
+"Alice Johnson",alice.j@example.com,"Echo Dot",3
+"Bob Smith",bob.s@example.com,"Fire Stick",2
+"Charlie Brown",charlie.b@example.com,"Echo Dot",16
+"Alice Johnson",alice.j@example.com,"Kindle Paperwhite",2
+"Bob Smith",bob.s@example.com,"Fire Stick",4
+"Leenus Raj",leenus.r@exampl.net,"Yoga Mat",14
+"Alice Johnson",alice.j@example.com,"Wireless Mouse",10
+Sathishan,sathish.r@exampl.net,Airdryer,2
+"Charlie Brown",charlie.b@example.com,"Nonstick Pan",12
+"Daisy Ridley",daisy.r@example.com,"Gaming Keyboard",8
+"Leenus Raj",leenus.r@exampl.net,"Yoga Ball",15
+"Alice Johnson",alice.j@example.com,Blender,14
+"Bob Smith",bob.s@example.com,"Laptop Stand",7
+"Charlie Brown",charlie.b@example.com,"Wireless Charger",14
+Sathishan,sathish.r@exampl.net,"Hair Dryer",12
+"Daisy Ridley",daisy.r@example.com,"Electric Kettle",7
+"Leenus Raj",leenus.r@exampl.net,"Smart Watch",8
+"Alice Johnson",alice.j@example.com,"Exercise Bike",7
+"Bob Smith",bob.s@example.com,"Face Cream",11
+"Charlie Brown",charlie.b@example.com,Dishwasher,12
+"Daisy Ridley",daisy.r@example.com,"Smart Plug",7
+"Leenus Raj",leenus.r@exampl.net,Multivitamins,14
+"Alice Johnson",alice.j@example.com,"Standing Desk",14
+Sathishan,sathish.r@exampl.net,"Digital Camera",4
+"Bob Smith",bob.s@example.com,"Electric Grill",2
+"Charlie Brown",charlie.b@example.com,Treadmill,6
+"Daisy Ridley",daisy.r@example.com,"Desk Lamp",6
+"Leenus Raj",leenus.r@exampl.net,"Noise Cancelling Headphones",6
+"Alice Johnson",alice.j@example.com,Juicer,6
+"Bob Smith",bob.s@example.com,"Ebook Reader",10
+"Charlie Brown",charlie.b@example.com,"Indoor Plant",10
+Sathishan,sathish.r@exampl.net,"Body Lotion",4
+"Daisy Ridley",daisy.r@example.com,Monitor,2
+"Leenus Raj",leenus.r@exampl.net,"Office Chair",8
+"Alice Johnson",alice.j@example.com,"Coffee Maker",4
+"Bob Smith",bob.s@example.com,"Vacuum Cleaner",2
+"Charlie Brown",charlie.b@example.com,"Gaming Headset",4
+"Daisy Ridley",daisy.r@example.com,"Water Bottle",10
+"Leenus Raj",leenus.r@exampl.net,"Smart Scale",10
+"Alice Johnson",alice.j@example.com,Toaster,6
+"Bob Smith",bob.s@example.com,"Robot Vacuum",8
+"Charlie Brown",charlie.b@example.com,"Face Mask",8
+Sathishan,sathish.r@exampl.net,"Desk Organizer",2
+"Daisy Ridley",daisy.r@example.com,"Digital Photo Frame",8
+"Leenus Raj",leenus.r@exampl.net,"Food Processor",4
+"Alice Johnson",alice.j@example.com,"Smart Doorbell",2
+"Bob Smith",bob.s@example.com,"Elliptical Machine",6
+"Charlie Brown",charlie.b@example.com,"Echo Dot",4
+"Daisy Ridley",daisy.r@example.com,"Kindle Paperwhite",5
+"Leenus Raj",leenus.r@exampl.net,"Fire Stick",13
+"Alice Johnson",alice.j@example.com,"Yoga Mat",8
+"Bob Smith",bob.s@example.com,"Wireless Mouse",4
+Sathishan,sathish.r@exampl.net,"Kindle Paperwhite",6
+"Daisy Ridley",daisy.r@example.com,"Fire Stick",3
+"Bob Smith",bob.s@example.com,Airdryer,3
+"Bob Smith",bob.s@example.com,"Digital Camera",2
+"Charlie Brown",charlie.b@example.com,"Electric Grill",6
+Sathishan,sathish.r@exampl.net,Treadmill,4
+"Daisy Ridley",daisy.r@example.com,"Body Lotion",2
+"Leenus Raj",leenus.r@exampl.net,Monitor,6
+"Alice Johnson",alice.j@example.com,"Office Chair",4
+"Bob Smith",bob.s@example.com,"Coffee Maker",2
+"Charlie Brown",charlie.b@example.com,"Vacuum Cleaner",4
+Sathishan,sathish.r@exampl.net,"Gaming Headset",2
+"Daisy Ridley",daisy.r@example.com,"Desk Organizer",2
+"Leenus Raj",leenus.r@exampl.net,"Digital Photo Frame",4
+"Alice Johnson",alice.j@example.com,"Food Processor",2
+"Bob Smith",bob.s@example.com,"Smart Doorbell",8
+"Charlie Brown",charlie.b@example.com,"Elliptical Machine",4
+Sathishan,sathish.r@exampl.net,"Echo Dot",6
+"Daisy Ridley",daisy.r@example.com,"Kindle Paperwhite",2
+"Alice Johnson",alice.j@example.com,"Yoga Mat",3
+"Bob Smith",bob.s@example.com,"Wireless Mouse",2
+Sathishan,sathish.r@exampl.net,"Nonstick Pan",2
