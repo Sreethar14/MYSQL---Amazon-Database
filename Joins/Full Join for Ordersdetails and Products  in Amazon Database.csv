@@ -1,0 +1,220 @@
+order_id,product_id,quantity,name,price
+1,114,13,"Smart Doorbell",149.99
+2,133,18,"Nonstick Pan",34.99
+1,1,2,"Echo Dot",49.99
+2,2,1,"Kindle Paperwhite",209.35
+3,1,1,"Echo Dot",49.99
+4,5,1,"Wireless Mouse",24.99
+5,3,2,"Fire Stick",39.99
+6,4,1,"Yoga Mat",19.99
+7,6,3,"Echo Dot",49.99
+8,7,2,"Kindle Paperwhite",209.35
+9,8,4,"Fire Stick",39.99
+10,9,1,"Yoga Mat",19.99
+11,10,2,"Wireless Mouse",24.99
+12,11,1,Airdryer,9.99
+13,12,3,"Nonstick Pan",34.99
+14,13,2,"Gaming Keyboard",79.99
+15,14,1,"Yoga Ball",29.99
+16,15,4,Blender,59.99
+17,16,2,"Laptop Stand",29.99
+18,17,1,"Wireless Charger",39.99
+19,18,3,"Hair Dryer",49.99
+20,19,2,"Electric Kettle",29.99
+21,20,1,"Smart Watch",149.99
+22,21,2,"Exercise Bike",299.99
+23,22,1,"Face Cream",19.99
+24,23,3,Dishwasher,499.99
+25,24,2,"Smart Plug",24.99
+26,25,1,Multivitamins,29.99
+27,26,4,"Standing Desk",299.99
+28,27,2,"Digital Camera",399.99
+29,28,1,"Electric Grill",79.99
+30,29,3,Treadmill,999.99
+31,30,2,"Desk Lamp",19.99
+32,31,1,"Noise Cancelling Headphones",199.99
+33,32,2,Juicer,89.99
+34,33,1,"Ebook Reader",209.35
+35,34,3,"Indoor Plant",24.99
+36,35,2,"Body Lotion",14.99
+37,36,1,Monitor,199.99
+38,37,4,"Office Chair",149.99
+39,38,2,"Coffee Maker",59.99
+40,39,1,"Vacuum Cleaner",199.99
+41,40,2,"Gaming Headset",79.99
+42,41,1,"Water Bottle",14.99
+43,42,3,"Smart Scale",59.99
+44,43,2,Toaster,29.99
+45,44,1,"Robot Vacuum",299.99
+46,45,2,"Face Mask",9.99
+47,46,1,"Desk Organizer",19.99
+48,47,4,"Digital Photo Frame",99.99
+49,48,2,"Food Processor",99.99
+50,49,1,"Smart Doorbell",149.99
+51,50,3,"Elliptical Machine",599.99
+52,1,2,"Echo Dot",49.99
+53,2,1,"Kindle Paperwhite",209.35
+54,3,4,"Fire Stick",39.99
+55,4,2,"Yoga Mat",19.99
+56,5,1,"Wireless Mouse",24.99
+57,6,3,"Echo Dot",49.99
+58,7,2,"Kindle Paperwhite",209.35
+59,8,1,"Fire Stick",39.99
+60,9,4,"Yoga Mat",19.99
+61,10,2,"Wireless Mouse",24.99
+62,11,1,Airdryer,9.99
+63,12,2,"Nonstick Pan",34.99
+64,13,1,"Gaming Keyboard",79.99
+65,14,3,"Yoga Ball",29.99
+66,15,2,Blender,59.99
+67,16,1,"Laptop Stand",29.99
+68,17,4,"Wireless Charger",39.99
+69,18,2,"Hair Dryer",49.99
+70,19,1,"Electric Kettle",29.99
+71,20,2,"Smart Watch",149.99
+72,21,1,"Exercise Bike",299.99
+73,22,3,"Face Cream",19.99
+74,23,2,Dishwasher,499.99
+75,24,1,"Smart Plug",24.99
+76,25,4,Multivitamins,29.99
+77,26,2,"Standing Desk",299.99
+78,27,1,"Digital Camera",399.99
+79,28,3,"Electric Grill",79.99
+80,29,2,Treadmill,999.99
+81,30,1,"Desk Lamp",19.99
+82,31,2,"Noise Cancelling Headphones",199.99
+83,32,1,Juicer,89.99
+84,33,4,"Ebook Reader",209.35
+85,34,2,"Indoor Plant",24.99
+86,35,1,"Body Lotion",14.99
+87,36,3,Monitor,199.99
+88,37,2,"Office Chair",149.99
+89,38,1,"Coffee Maker",59.99
+90,39,2,"Vacuum Cleaner",199.99
+91,40,1,"Gaming Headset",79.99
+92,41,4,"Water Bottle",14.99
+93,42,2,"Smart Scale",59.99
+94,43,1,Toaster,29.99
+95,44,3,"Robot Vacuum",299.99
+96,45,2,"Face Mask",9.99
+97,46,1,"Desk Organizer",19.99
+98,47,2,"Digital Photo Frame",99.99
+99,48,1,"Food Processor",99.99
+100,49,4,"Smart Doorbell",149.99
+101,50,2,"Elliptical Machine",599.99
+102,1,3,"Echo Dot",49.99
+103,2,2,"Kindle Paperwhite",209.35
+104,3,1,"Fire Stick",39.99
+105,4,2,"Yoga Mat",19.99
+106,5,1,"Wireless Mouse",24.99
+107,6,4,"Echo Dot",49.99
+108,7,2,"Kindle Paperwhite",209.35
+109,8,1,"Fire Stick",39.99
+110,9,3,"Yoga Mat",19.99
+111,10,2,"Wireless Mouse",24.99
+112,11,1,Airdryer,9.99
+113,12,2,"Nonstick Pan",34.99
+114,13,1,"Gaming Keyboard",79.99
+115,14,4,"Yoga Ball",29.99
+NULL,NULL,NULL,"LED Light Strip",19.99
+NULL,NULL,NULL,"Hair Straightener",39.99
+NULL,NULL,NULL,"Popcorn Maker",29.99
+NULL,NULL,NULL,"Weighted Blanket",69.99
+NULL,NULL,NULL,"Handheld Vacuum",49.99
+NULL,NULL,NULL,"Wireless Earbuds",59.99
+NULL,NULL,NULL,"Fitness Tracker",99.99
+NULL,NULL,NULL,"Air Humidifier",39.99
+NULL,NULL,NULL,"Electric Shaver",49.99
+NULL,NULL,NULL,"Electric Skillet",59.99
+NULL,NULL,NULL,"Table Lamp",39.99
+NULL,NULL,NULL,"Outdoor Grill",199.99
+NULL,NULL,NULL,"Home Theater System",299.99
+NULL,NULL,NULL,"Smart Speaker",99.99
+NULL,NULL,NULL,"Electric Blanket",49.99
+NULL,NULL,NULL,"Fitness Ball",19.99
+NULL,NULL,NULL,"Lip Balm",4.99
+NULL,NULL,NULL,"Pressure Cooker",99.99
+NULL,NULL,NULL,"Foot Massager",89.99
+NULL,NULL,NULL,"Smart Thermostat",199.99
+NULL,NULL,NULL,"Electric Toothbrush",59.99
+NULL,NULL,NULL,"Air Fryer",89.99
+NULL,NULL,NULL,"Gaming Mouse",49.99
+NULL,NULL,NULL,"Protein Powder",39.99
+NULL,NULL,NULL,"Smart Light Bulb",24.99
+NULL,NULL,NULL,Shampoo,9.99
+NULL,NULL,NULL,"Nonstick Pan",34.99
+NULL,NULL,NULL,"Gaming Keyboard",79.99
+NULL,NULL,NULL,"Yoga Ball",29.99
+NULL,NULL,NULL,Blender,59.99
+NULL,NULL,NULL,"Laptop Stand",29.99
+NULL,NULL,NULL,"Wireless Charger",39.99
+NULL,NULL,NULL,"Hair Dryer",49.99
+NULL,NULL,NULL,"Electric Kettle",29.99
+NULL,NULL,NULL,"Smart Watch",149.99
+NULL,NULL,NULL,"Exercise Bike",299.99
+NULL,NULL,NULL,"Face Cream",19.99
+NULL,NULL,NULL,Dishwasher,499.99
+NULL,NULL,NULL,"Smart Plug",24.99
+NULL,NULL,NULL,Multivitamins,29.99
+NULL,NULL,NULL,"Standing Desk",299.99
+NULL,NULL,NULL,"Digital Camera",399.99
+NULL,NULL,NULL,"Electric Grill",79.99
+NULL,NULL,NULL,Treadmill,999.99
+NULL,NULL,NULL,"Desk Lamp",19.99
+NULL,NULL,NULL,"Noise Cancelling Headphones",199.99
+NULL,NULL,NULL,Juicer,89.99
+NULL,NULL,NULL,"Ebook Reader",209.35
+NULL,NULL,NULL,"Indoor Plant",24.99
+NULL,NULL,NULL,"Body Lotion",14.99
+NULL,NULL,NULL,Monitor,199.99
+NULL,NULL,NULL,"Office Chair",149.99
+NULL,NULL,NULL,"Coffee Maker",59.99
+NULL,NULL,NULL,"Vacuum Cleaner",199.99
+NULL,NULL,NULL,"Gaming Headset",79.99
+NULL,NULL,NULL,"Water Bottle",14.99
+NULL,NULL,NULL,"Smart Scale",59.99
+NULL,NULL,NULL,Toaster,29.99
+NULL,NULL,NULL,"Robot Vacuum",299.99
+NULL,NULL,NULL,"Face Mask",9.99
+NULL,NULL,NULL,"Desk Organizer",19.99
+NULL,NULL,NULL,"Digital Photo Frame",99.99
+NULL,NULL,NULL,"Food Processor",99.99
+NULL,NULL,NULL,"Elliptical Machine",599.99
+NULL,NULL,NULL,Airdryer,9.99
+NULL,NULL,NULL,"Smart Doorbell",149.99
+NULL,NULL,NULL,"Echo Dot",49.99
+NULL,NULL,NULL,"Kindle Paperwhite",209.35
+NULL,NULL,NULL,"Fire Stick",39.99
+NULL,NULL,NULL,"Yoga Mat",19.99
+NULL,NULL,NULL,"Wireless Mouse",29.99
+NULL,NULL,NULL,Airdryer,25.99
+NULL,NULL,NULL,"Nonstick Pan",35.99
+NULL,NULL,NULL,"Yoga Ball",22.99
+NULL,NULL,NULL,Blender,99.99
+NULL,NULL,NULL,"Laptop Stand",39.99
+NULL,NULL,NULL,"Wireless Charger",24.99
+NULL,NULL,NULL,"Hair Dryer",29.99
+NULL,NULL,NULL,"Electric Kettle",34.99
+NULL,NULL,NULL,"Exercise Bike",499.99
+NULL,NULL,NULL,"Face Cream",14.99
+NULL,NULL,NULL,Dishwasher,899.99
+NULL,NULL,NULL,"Smart Plug",19.99
+NULL,NULL,NULL,Multivitamins,12.99
+NULL,NULL,NULL,"Standing Desk",399.99
+NULL,NULL,NULL,"Digital Camera",549.99
+NULL,NULL,NULL,"Desk Lamp",49.99
+NULL,NULL,NULL,Juicer,149.99
+NULL,NULL,NULL,"Ebook Reader",193.25
+NULL,NULL,NULL,"Indoor Plant",29.99
+NULL,NULL,NULL,"Body Lotion",10.99
+NULL,NULL,NULL,Monitor,299.99
+NULL,NULL,NULL,"Office Chair",899.99
+NULL,NULL,NULL,"Coffee Maker",119.99
+NULL,NULL,NULL,"Vacuum Cleaner",499.99
+NULL,NULL,NULL,"Gaming Headset",99.99
+NULL,NULL,NULL,"Water Bottle",29.99
+NULL,NULL,NULL,"Smart Scale",99.99
+NULL,NULL,NULL,Toaster,39.99
+NULL,NULL,NULL,"Robot Vacuum",399.99
+NULL,NULL,NULL,"Face Mask",2.99
+NULL,NULL,NULL,"Desk Organizer",24.99
