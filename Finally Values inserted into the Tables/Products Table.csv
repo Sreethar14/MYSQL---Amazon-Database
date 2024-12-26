@@ -1,0 +1,266 @@
+product_id,name,price,category,stock,description,manufacturer,weight,dimensions,created_at,updated_at
+1,Echo Dot,49.99,Electronics,120,Smart speaker with Alexa,Amazon,0.5,3.9x3.9x1.7,12/23/2024 13:49,12/24/2024 15:13
+2,Kindle Paperwhite,129.99,Books,50,E-reader with high resolution,Amazon,0.2,6.6x4.6x0.3,12/23/2024 13:49,12/24/2024 15:13
+3,Fire Stick,39.99,Electronics,80,Streaming media player,Amazon,0.1,3.4x1.2x0.5,12/23/2024 13:49,12/24/2024 15:13
+4,Yoga Mat,19.99,Fitness,200,Non-slip yoga mat,Gaiam,2.5,68x24x0.5,12/23/2024 13:49,12/24/2024 15:13
+5,Wireless Mouse,24.99,Electronics,150,Ergonomic wireless mouse,Logitech,0.1,4.2x2.4x1.6,12/23/2024 13:49,12/24/2024 15:13
+6,Echo Dot,49.99,Electronics,120,Smart speaker with Alexa,Amazon,0.5,3.9x3.9x1.7,12/23/2024 13:49,12/24/2024 15:13
+7,Kindle Paperwhite,129.99,Books,50,E-reader with high resolution,Amazon,0.2,6.6x4.6x0.3,12/23/2024 13:49,12/24/2024 15:13
+8,Fire Stick,39.99,Electronics,80,Streaming media player,Amazon,0.1,3.4x1.2x0.5,12/23/2024 13:49,12/24/2024 15:13
+9,Yoga Mat,19.99,Fitness,200,Non-slip yoga mat,Gaiam,2.5,68x24x0.5,12/23/2024 13:49,12/24/2024 15:13
+10,Wireless Mouse,24.99,Electronics,150,Ergonomic wireless mouse,Logitech,0.1,4.2x2.4x1.6,12/23/2024 13:49,12/24/2024 15:13
+11,Airdryer,9.99,Personal Care,300,Portable hair dryer,Conair,1.5,10x5x3,12/23/2024 13:49,12/24/2024 15:13
+12,Nonstick Pan,34.99,Kitchen,60,12-inch nonstick frying pan,T-fal,2,15x10x5,12/23/2024 13:49,12/24/2024 15:13
+13,Gaming Keyboard,79.99,Electronics,90,Mechanical gaming keyboard,Corsair,1.5,18x6x2,12/23/2024 13:49,12/24/2024 15:13
+14,Yoga Ball,29.99,Fitness,100,Anti-burst yoga ball,Trideer,2.5,25x25x25,12/23/2024 13:49,12/24/2024 15:13
+15,Blender,59.99,Kitchen,80,High-speed blender,Ninja,3,15x10x8,12/23/2024 13:49,12/24/2024 15:13
+16,Laptop Stand,29.99,Electronics,150,Adjustable laptop stand,Rain Design,1,12x8x2,12/23/2024 13:49,12/24/2024 15:13
+17,Wireless Charger,39.99,Electronics,200,Qi-enabled wireless charger,Anker,0.5,6x6x1,12/23/2024 13:49,12/24/2024 15:13
+18,Hair Dryer,49.99,Personal Care,100,Ceramic hair dryer,Revlon,2,12x8x4,12/23/2024 13:49,12/24/2024 15:13
+19,Electric Kettle,29.99,Kitchen,90,1.7-liter electric kettle,Hamilton Beach,1.8,9x7x7,12/23/2024 13:49,12/24/2024 15:13
+20,Smart Watch,149.99,Electronics,70,Fitness and activity tracker,Fitbit,0.1,1.6x1.6x0.5,12/23/2024 13:49,12/24/2024 15:13
+21,Exercise Bike,299.99,Fitness,40,Stationary exercise bike,Schwinn,15,50x25x50,12/23/2024 13:49,12/24/2024 15:13
+22,Face Cream,19.99,Personal Care,250,Moisturizing face cream,Neutrogena,0.3,3x3x3,12/23/2024 13:49,12/24/2024 15:13
+23,Dishwasher,499.99,Home,20,Built-in dishwasher,Bosch,20,30x25x35,12/23/2024 13:49,12/24/2024 15:13
+24,Smart Plug,24.99,Home,200,Wi-Fi smart plug,TP-Link,0.2,2x2x2,12/23/2024 13:49,12/24/2024 15:13
+25,Multivitamins,29.99,Personal Care,180,Daily multivitamin supplement,One A Day,0.5,6x3x3,12/23/2024 13:49,12/24/2024 15:13
+26,Standing Desk,299.99,Office,30,Adjustable standing desk,Varidesk,25,40x30x40,12/23/2024 13:49,12/24/2024 15:13
+27,Digital Camera,399.99,Electronics,25,High-resolution digital camera,Canon,1,15x10x8,12/23/2024 13:49,12/24/2024 15:13
+28,Electric Grill,79.99,Kitchen,55,Indoor electric grill,George Foreman,5,18x15x10,12/23/2024 13:49,12/24/2024 15:13
+29,Treadmill,999.99,Fitness,15,Foldable treadmill,NordicTrack,50,70x30x50,12/23/2024 13:49,12/24/2024 15:13
+30,Desk Lamp,19.99,Home,120,LED desk lamp,TaoTronics,1.5,10x5x5,12/23/2024 13:49,12/24/2024 15:13
+31,Noise Cancelling Headphones,199.99,Electronics,60,Wireless noise cancelling headphones,Sony,1,8x8x4,12/23/2024 13:49,12/24/2024 15:13
+32,Juicer,89.99,Kitchen,50,Centrifugal juicer,Breville,3,12x10x8,12/23/2024 13:49,12/24/2024 15:13
+33,Ebook Reader,129.99,Books,40,Portable ebook reader,Kobo,0.2,6.6x4.6x0.3,12/23/2024 13:49,12/24/2024 15:13
+34,Indoor Plant,24.99,Home,100,Live indoor house plant,Costa Farms,1,15x15x15,12/23/2024 13:49,12/24/2024 15:13
+35,Body Lotion,14.99,Personal Care,250,Hydrating body lotion,Aveeno,0.5,8x4x4,12/23/2024 13:49,12/24/2024 15:13
+36,Monitor,199.99,Electronics,80,27-inch computer monitor,Dell,10,25x18x4,12/23/2024 13:49,12/24/2024 15:13
+37,Office Chair,149.99,Office,40,Ergonomic office chair,Herman Miller,15,30x30x40,12/23/2024 13:49,12/24/2024 15:13
+38,Coffee Maker,59.99,Kitchen,100,12-cup coffee maker,Keurig,5,15x10x10,12/23/2024 13:49,12/24/2024 15:13
+39,Vacuum Cleaner,199.99,Home,50,Cordless vacuum cleaner,Dyson,10,30x10x10,12/23/2024 13:49,12/24/2024 15:13
+40,Gaming Headset,79.99,Electronics,75,Surround sound gaming headset,SteelSeries,1,9x9x4,12/23/2024 13:49,12/24/2024 15:13
+41,Water Bottle,14.99,Fitness,200,Stainless steel water bottle,Hydro Flask,0.8,10x3x3,12/23/2024 13:49,12/24/2024 15:13
+42,Smart Scale,59.99,Fitness,100,Bluetooth body fat scale,Withings,2,14x14x1,12/23/2024 13:49,12/24/2024 15:13
+43,Toaster,29.99,Kitchen,90,4-slice toaster,Cuisinart,3,12x10x8,12/23/2024 13:49,12/24/2024 15:13
+44,Robot Vacuum,299.99,Home,30,Automated robot vacuum,iRobot,7,14x14x4,12/23/2024 13:49,12/24/2024 15:13
+45,Face Mask,9.99,Personal Care,300,Hydrating sheet mask,Garnier,0.2,8x6x1,12/23/2024 13:49,12/24/2024 15:13
+46,Desk Organizer,19.99,Office,150,Multi-compartment desk organizer,Rolodex,1.5,12x10x6,12/23/2024 13:49,12/24/2024 15:13
+47,Digital Photo Frame,99.99,Electronics,40,Wi-Fi digital photo frame,Nixplay,1,10x8x2,12/23/2024 13:49,12/24/2024 15:13
+48,Food Processor,99.99,Kitchen,50,Multi-function food processor,Cuisinart,5,15x12x10,12/23/2024 13:49,12/24/2024 15:20
+49,Smart Doorbell,149.99,Home,40,Video doorbell with motion detection,Ring,0.8,6x2x2,12/23/2024 13:49,12/24/2024 15:20
+50,Elliptical Machine,599.99,Fitness,10,Elliptical cross trainer,ProForm,40,60x25x65,12/23/2024 13:49,12/24/2024 15:20
+51,LED Light Strip,19.99,Electronics,150,Color-changing LED light strip,Philips Hue,0.5,10x6x1,12/23/2024 13:49,12/24/2024 15:20
+52,Hair Straightener,39.99,Personal Care,80,Ceramic hair straightener,CHI,1,12x2x2,12/23/2024 13:49,12/24/2024 15:20
+53,Popcorn Maker,29.99,Kitchen,70,Hot air popcorn maker,Presto,2,10x10x15,12/23/2024 13:49,12/24/2024 15:20
+54,Weighted Blanket,69.99,Home,60,Weighted blanket for better sleep,Gravity,15,80x60x5,12/23/2024 13:49,12/24/2024 15:20
+55,Handheld Vacuum,49.99,Home,90,Portable handheld vacuum,Black+Decker,3,14x5x5,12/23/2024 13:49,12/24/2024 15:20
+56,Wireless Earbuds,59.99,Electronics,120,True wireless earbuds,Apple,0.1,2x2x1,12/23/2024 13:49,12/24/2024 15:20
+57,Fitness Tracker,99.99,Fitness,80,Activity tracker with heart rate monitor,Garmin,0.2,5x1x0.5,12/23/2024 13:49,12/24/2024 15:20
+58,Air Humidifier,39.99,Home,50,Ultrasonic air humidifier,Levoit,4,12x10x8,12/23/2024 13:49,12/24/2024 15:20
+59,Electric Shaver,49.99,Personal Care,100,Rechargeable electric shaver,Philips Norelco,0.5,6x3x2,12/23/2024 13:49,12/24/2024 15:20
+60,Electric Skillet,59.99,Kitchen,40,Non-stick electric skillet,Presto,4.5,18x12x6,12/23/2024 13:49,12/24/2024 15:20
+61,Table Lamp,39.99,Home,70,Adjustable LED table lamp,Ikea,2,15x8x8,12/23/2024 13:49,12/24/2024 15:20
+62,Outdoor Grill,199.99,Home,20,Outdoor electric grill,Weber,20,40x30x20,12/23/2024 13:49,12/24/2024 15:20
+63,Home Theater System,299.99,Electronics,30,Home theater system with surround sound,Sony,30,20x15x10,12/23/2024 13:49,12/24/2024 15:20
+64,Smart Speaker,99.99,Electronics,60,Smart speaker with voice control,Google,1,4x4x4,12/23/2024 13:49,12/24/2024 15:20
+65,Electric Blanket,49.99,Home,80,Electric blanket with dual control,Sunbeam,5,80x60x1,12/23/2024 13:49,12/24/2024 15:20
+66,Fitness Ball,19.99,Fitness,90,Anti-burst fitness ball,Trideer,2.5,25x25x25,12/23/2024 13:49,12/24/2024 15:20
+67,Lip Balm,4.99,Personal Care,500,Moisturizing lip balm,Burt's Bees,0.1,3x1x1,12/23/2024 13:49,12/24/2024 15:20
+68,Pressure Cooker,99.99,Kitchen,50,6-quart electric pressure cooker,Instant Pot,12,13x13x14,12/23/2024 13:49,12/24/2024 15:20
+69,Foot Massager,89.99,Personal Care,40,Electric foot massager,Miko,10,17x15x18,12/23/2024 13:49,12/24/2024 15:20
+70,Smart Thermostat,199.99,Home,30,Wi-Fi smart thermostat,Nest,1,3.3x3.3x1.2,12/23/2024 13:49,12/24/2024 15:20
+71,Electric Toothbrush,59.99,Personal Care,80,Rechargeable electric toothbrush,Oral-B,0.7,9.3x2.3x4.4,12/23/2024 13:49,12/24/2024 15:20
+72,Air Fryer,89.99,Kitchen,40,Digital air fryer,COSORI,7,11.8x12.6x11.7,12/23/2024 13:49,12/24/2024 15:20
+73,Gaming Mouse,49.99,Electronics,100,Ergonomic gaming mouse,Razer,0.3,5x2.6x1.5,12/23/2024 13:49,12/24/2024 15:20
+74,Protein Powder,39.99,Fitness,120,Whey protein powder,Optimum Nutrition,5,8x8x11,12/23/2024 13:49,12/24/2024 15:20
+75,Smart Light Bulb,24.99,Home,200,Wi-Fi smart light bulb,LIFX,0.4,5x2.5x2.5,12/23/2024 13:49,12/24/2024 15:20
+76,Shampoo,9.99,Personal Care,300,Moisturizing shampoo,Pantene,1.2,8x2.5x2.5,12/23/2024 13:49,12/24/2024 15:20
+77,Nonstick Pan,34.99,Kitchen,60,12-inch nonstick frying pan,T-fal,2,15x10x5,12/23/2024 13:49,12/24/2024 15:13
+78,Gaming Keyboard,79.99,Electronics,80,Mechanical gaming keyboard,Corsair,1.5,18x6x2,12/23/2024 13:49,12/24/2024 15:13
+79,Yoga Ball,29.99,Fitness,120,Anti-burst yoga ball,Trideer,2.5,25x25x25,12/23/2024 13:49,12/24/2024 15:13
+80,Blender,59.99,Kitchen,60,High-speed blender,Ninja,3,15x10x8,12/23/2024 13:49,12/24/2024 15:13
+81,Laptop Stand,29.99,Electronics,150,Adjustable laptop stand,Rain Design,1,12x8x2,12/23/2024 13:49,12/24/2024 15:13
+82,Wireless Charger,39.99,Electronics,90,Qi-enabled wireless charger,Anker,0.5,6x6x1,12/23/2024 13:49,12/24/2024 15:13
+83,Hair Dryer,49.99,Personal Care,100,Ceramic hair dryer,Revlon,2,12x8x4,12/23/2024 13:49,12/24/2024 15:13
+84,Electric Kettle,29.99,Kitchen,70,1.7-liter electric kettle,Hamilton Beach,1.8,9x7x7,12/23/2024 13:49,12/24/2024 15:13
+85,Smart Watch,149.99,Electronics,50,Fitness and activity tracker,Fitbit,0.1,1.6x1.6x0.5,12/23/2024 13:49,12/24/2024 15:13
+86,Exercise Bike,299.99,Fitness,30,Stationary exercise bike,Schwinn,15,50x25x50,12/23/2024 13:49,12/24/2024 15:13
+87,Face Cream,19.99,Personal Care,200,Moisturizing face cream,Neutrogena,0.3,3x3x3,12/23/2024 13:49,12/24/2024 15:13
+88,Dishwasher,499.99,Home,15,Built-in dishwasher,Bosch,20,30x25x35,12/23/2024 13:49,12/24/2024 15:13
+89,Smart Plug,24.99,Home,180,Wi-Fi smart plug,TP-Link,0.2,2x2x2,12/23/2024 13:49,12/24/2024 15:13
+90,Multivitamins,29.99,Personal Care,150,Daily multivitamin supplement,One A Day,0.5,6x3x3,12/23/2024 13:49,12/24/2024 15:13
+91,Standing Desk,299.99,Office,20,Adjustable standing desk,Varidesk,25,40x30x40,12/23/2024 13:49,12/24/2024 15:13
+92,Digital Camera,399.99,Electronics,20,High-resolution digital camera,Canon,1,15x10x8,12/23/2024 13:49,12/24/2024 15:13
+93,Electric Grill,79.99,Kitchen,45,Indoor electric grill,George Foreman,5,18x15x10,12/23/2024 13:49,12/24/2024 15:13
+94,Treadmill,999.99,Fitness,10,Foldable treadmill,NordicTrack,50,70x30x50,12/23/2024 13:49,12/24/2024 15:13
+95,Desk Lamp,19.99,Home,100,LED desk lamp,TaoTronics,1.5,10x5x5,12/23/2024 13:49,12/24/2024 15:13
+96,Noise Cancelling Headphones,199.99,Electronics,50,Wireless noise cancelling headphones,Sony,1,8x8x4,12/23/2024 13:49,12/24/2024 15:13
+97,Juicer,89.99,Kitchen,45,Centrifugal juicer,Breville,3,12x10x8,12/23/2024 13:49,12/24/2024 15:13
+98,Ebook Reader,129.99,Books,30,Portable ebook reader,Kobo,0.2,6.6x4.6x0.3,12/23/2024 13:49,12/24/2024 15:13
+99,Indoor Plant,24.99,Home,80,Live indoor house plant,Costa Farms,1,15x15x15,12/23/2024 13:49,12/24/2024 15:13
+100,Body Lotion,14.99,Personal Care,200,Hydrating body lotion,Aveeno,0.5,8x4x4,12/23/2024 13:49,12/24/2024 15:13
+101,Monitor,199.99,Electronics,70,27-inch computer monitor,Dell,10,25x18x4,12/23/2024 13:49,12/24/2024 15:13
+102,Office Chair,149.99,Office,30,Ergonomic office chair,Herman Miller,15,30x30x40,12/23/2024 13:49,12/24/2024 15:13
+103,Coffee Maker,59.99,Kitchen,80,12-cup coffee maker,Keurig,5,15x10x10,12/23/2024 13:49,12/24/2024 15:13
+104,Vacuum Cleaner,199.99,Home,40,Cordless vacuum cleaner,Dyson,10,30x10x10,12/23/2024 13:49,12/24/2024 15:13
+105,Gaming Headset,79.99,Electronics,60,Surround sound gaming headset,SteelSeries,1,9x9x4,12/23/2024 13:49,12/24/2024 15:13
+106,Water Bottle,14.99,Fitness,150,Stainless steel water bottle,Hydro Flask,0.8,10x3x3,12/23/2024 13:49,12/24/2024 15:13
+107,Smart Scale,59.99,Fitness,90,Bluetooth body fat scale,Withings,2,14x14x1,12/23/2024 13:49,12/24/2024 15:13
+108,Toaster,29.99,Kitchen,70,4-slice toaster,Cuisinart,3,12x10x8,12/23/2024 13:49,12/24/2024 15:13
+109,Robot Vacuum,299.99,Home,20,Automated robot vacuum,iRobot,7,14x14x4,12/23/2024 13:49,12/24/2024 15:13
+110,Face Mask,9.99,Personal Care,250,Hydrating sheet mask,Garnier,0.2,8x6x1,12/23/2024 13:49,12/24/2024 15:13
+111,Desk Organizer,19.99,Office,120,Multi-compartment desk organizer,Rolodex,1.5,12x10x6,12/23/2024 13:49,12/24/2024 15:13
+112,Digital Photo Frame,99.99,Electronics,30,Wi-Fi digital photo frame,Nixplay,1,10x8x2,12/23/2024 13:49,12/24/2024 15:13
+113,Food Processor,99.99,Kitchen,45,Multi-function food processor,Cuisinart,5,15x12x10,12/23/2024 13:49,12/24/2024 15:20
+114,Smart Doorbell,149.99,Home,30,Video doorbell with motion detection,Ring,0.8,6x2x2,12/23/2024 13:49,12/24/2024 15:20
+115,Elliptical Machine,599.99,Fitness,8,Elliptical cross trainer,ProForm,40,60x25x65,12/23/2024 13:49,12/24/2024 15:20
+116,LED Light Strip,19.99,Electronics,120,Color-changing LED light strip,Philips Hue,0.5,10x6x1,12/23/2024 13:49,12/24/2024 15:20
+117,Hair Straightener,39.99,Personal Care,60,Ceramic hair straightener,CHI,1,12x2x2,12/23/2024 13:49,12/24/2024 15:20
+118,Popcorn Maker,29.99,Kitchen,60,Hot air popcorn maker,Presto,2,10x10x15,12/23/2024 13:49,12/24/2024 15:20
+119,Weighted Blanket,69.99,Home,40,Weighted blanket for better sleep,Gravity,15,80x60x5,12/23/2024 13:49,12/24/2024 15:20
+120,Handheld Vacuum,49.99,Home,70,Portable handheld vacuum,Black+Decker,3,14x5x5,12/23/2024 13:49,12/24/2024 15:20
+121,Wireless Earbuds,59.99,Electronics,100,True wireless earbuds,Apple,0.1,2x2x1,12/23/2024 13:49,12/24/2024 15:20
+122,Fitness Tracker,99.99,Fitness,70,Activity tracker with heart rate monitor,Garmin,0.2,5x1x0.5,12/23/2024 13:49,12/24/2024 15:20
+123,Air Humidifier,39.99,Home,40,Ultrasonic air humidifier,Levoit,4,12x10x8,12/23/2024 13:49,12/24/2024 15:20
+124,Electric Shaver,49.99,Personal Care,80,Rechargeable electric shaver,Philips Norelco,0.5,6x3x2,12/23/2024 13:49,12/24/2024 15:20
+125,Electric Skillet,59.99,Kitchen,35,Non-stick electric skillet,Presto,4.5,18x12x6,12/23/2024 13:49,12/24/2024 15:20
+126,Table Lamp,39.99,Home,60,Adjustable LED table lamp,Ikea,2,15x8x8,12/23/2024 13:49,12/24/2024 15:20
+127,Outdoor Grill,199.99,Home,15,Outdoor electric grill,Weber,20,40x30x20,12/23/2024 13:49,12/24/2024 15:20
+128,Home Theater System,299.99,Electronics,20,Home theater system with surround sound,Sony,30,20x15x10,12/23/2024 13:49,12/24/2024 15:20
+129,Smart Speaker,99.99,Electronics,50,Smart speaker with voice control,Google,1,4x4x4,12/23/2024 13:49,12/24/2024 15:20
+130,Electric Blanket,49.99,Home,60,Electric blanket with dual control,Sunbeam,5,80x60x1,12/23/2024 13:49,12/24/2024 15:20
+131,Fitness Ball,19.99,Fitness,90,Anti-burst fitness ball,Trideer,2.5,25x25x25,12/23/2024 13:49,12/24/2024 15:20
+132,Airdryer,9.99,Personal Care,300,Portable hair dryer,Conair,1.5,10x5x3,12/24/2024 13:38,12/24/2024 15:13
+133,Nonstick Pan,34.99,Kitchen,60,12-inch nonstick frying pan,T-fal,2,15x10x5,12/24/2024 13:38,12/24/2024 15:13
+134,Gaming Keyboard,79.99,Electronics,90,Mechanical gaming keyboard,Corsair,1.5,18x6x2,12/24/2024 13:38,12/24/2024 15:13
+135,Yoga Ball,29.99,Fitness,100,Anti-burst yoga ball,Trideer,2.5,25x25x25,12/24/2024 13:38,12/24/2024 15:13
+136,Blender,59.99,Kitchen,80,High-speed blender,Ninja,3,15x10x8,12/24/2024 13:38,12/24/2024 15:13
+137,Laptop Stand,29.99,Electronics,150,Adjustable laptop stand,Rain Design,1,12x8x2,12/24/2024 13:38,12/24/2024 15:13
+138,Wireless Charger,39.99,Electronics,200,Qi-enabled wireless charger,Anker,0.5,6x6x1,12/24/2024 13:38,12/24/2024 15:13
+139,Hair Dryer,49.99,Personal Care,100,Ceramic hair dryer,Revlon,2,12x8x4,12/24/2024 13:38,12/24/2024 15:13
+140,Electric Kettle,29.99,Kitchen,90,1.7-liter electric kettle,Hamilton Beach,1.8,9x7x7,12/24/2024 13:38,12/24/2024 15:13
+141,Smart Watch,149.99,Electronics,70,Fitness and activity tracker,Fitbit,0.1,1.6x1.6x0.5,12/24/2024 13:38,12/24/2024 15:13
+142,Exercise Bike,299.99,Fitness,40,Stationary exercise bike,Schwinn,15,50x25x50,12/24/2024 13:38,12/24/2024 15:13
+143,Face Cream,19.99,Personal Care,250,Moisturizing face cream,Neutrogena,0.3,3x3x3,12/24/2024 13:38,12/24/2024 15:13
+144,Dishwasher,499.99,Home,20,Built-in dishwasher,Bosch,20,30x25x35,12/24/2024 13:38,12/24/2024 15:13
+145,Smart Plug,24.99,Home,200,Wi-Fi smart plug,TP-Link,0.2,2x2x2,12/24/2024 13:38,12/24/2024 15:13
+146,Multivitamins,29.99,Personal Care,180,Daily multivitamin supplement,One A Day,0.5,6x3x3,12/24/2024 13:38,12/24/2024 15:13
+147,Standing Desk,299.99,Office,30,Adjustable standing desk,Varidesk,25,40x30x40,12/24/2024 13:38,12/24/2024 15:13
+148,Digital Camera,399.99,Electronics,25,High-resolution digital camera,Canon,1,15x10x8,12/24/2024 13:38,12/24/2024 15:13
+149,Electric Grill,79.99,Kitchen,55,Indoor electric grill,George Foreman,5,18x15x10,12/24/2024 13:38,12/24/2024 15:13
+150,Treadmill,999.99,Fitness,15,Foldable treadmill,NordicTrack,50,70x30x50,12/24/2024 13:38,12/24/2024 15:13
+151,Desk Lamp,19.99,Home,120,LED desk lamp,TaoTronics,1.5,10x5x5,12/24/2024 13:38,12/24/2024 15:13
+152,Noise Cancelling Headphones,199.99,Electronics,60,Wireless noise cancelling headphones,Sony,1,8x8x4,12/24/2024 13:38,12/24/2024 15:13
+153,Juicer,89.99,Kitchen,50,Centrifugal juicer,Breville,3,12x10x8,12/24/2024 13:38,12/24/2024 15:13
+154,Ebook Reader,129.99,Books,40,Portable ebook reader,Kobo,0.2,6.6x4.6x0.3,12/24/2024 13:38,12/24/2024 15:13
+155,Indoor Plant,24.99,Home,100,Live indoor house plant,Costa Farms,1,15x15x15,12/24/2024 13:38,12/24/2024 15:13
+156,Body Lotion,14.99,Personal Care,250,Hydrating body lotion,Aveeno,0.5,8x4x4,12/24/2024 13:38,12/24/2024 15:13
+157,Monitor,199.99,Electronics,80,27-inch computer monitor,Dell,10,25x18x4,12/24/2024 13:38,12/24/2024 15:13
+158,Office Chair,149.99,Office,40,Ergonomic office chair,Herman Miller,15,30x30x40,12/24/2024 13:38,12/24/2024 15:13
+159,Coffee Maker,59.99,Kitchen,100,12-cup coffee maker,Keurig,5,15x10x10,12/24/2024 13:38,12/24/2024 15:13
+160,Vacuum Cleaner,199.99,Home,50,Cordless vacuum cleaner,Dyson,10,30x10x10,12/24/2024 13:38,12/24/2024 15:13
+161,Gaming Headset,79.99,Electronics,75,Surround sound gaming headset,SteelSeries,1,9x9x4,12/24/2024 13:38,12/24/2024 15:13
+162,Water Bottle,14.99,Fitness,200,Stainless steel water bottle,Hydro Flask,0.8,10x3x3,12/24/2024 13:38,12/24/2024 15:13
+163,Smart Scale,59.99,Fitness,100,Bluetooth body fat scale,Withings,2,14x14x1,12/24/2024 13:38,12/24/2024 15:13
+164,Toaster,29.99,Kitchen,90,4-slice toaster,Cuisinart,3,12x10x8,12/24/2024 13:38,12/24/2024 15:13
+165,Robot Vacuum,299.99,Home,30,Automated robot vacuum,iRobot,7,14x14x4,12/24/2024 13:38,12/24/2024 15:13
+166,Face Mask,9.99,Personal Care,300,Hydrating sheet mask,Garnier,0.2,8x6x1,12/24/2024 13:38,12/24/2024 15:13
+167,Desk Organizer,19.99,Office,150,Multi-compartment desk organizer,Rolodex,1.5,12x10x6,12/24/2024 13:38,12/24/2024 15:13
+168,Digital Photo Frame,99.99,Electronics,40,Wi-Fi digital photo frame,Nixplay,1,10x8x2,12/24/2024 13:38,12/24/2024 15:13
+169,Food Processor,99.99,Kitchen,50,Multi-function food processor,Cuisinart,5,15x12x10,12/24/2024 13:38,12/24/2024 15:20
+170,Smart Doorbell,149.99,Home,40,Video doorbell with motion detection,Ring,0.8,6x2x2,12/24/2024 13:38,12/24/2024 15:20
+171,Elliptical Machine,599.99,Fitness,10,Elliptical cross trainer,ProForm,40,60x25x65,12/24/2024 13:38,12/24/2024 15:20
+172,LED Light Strip,19.99,Electronics,150,Color-changing LED light strip,Philips Hue,0.5,10x6x1,12/24/2024 13:38,12/24/2024 15:20
+173,Hair Straightener,39.99,Personal Care,80,Ceramic hair straightener,CHI,1,12x2x2,12/24/2024 13:38,12/24/2024 15:20
+174,Popcorn Maker,29.99,Kitchen,70,Hot air popcorn maker,Presto,2,10x10x15,12/24/2024 13:38,12/24/2024 15:20
+175,Weighted Blanket,69.99,Home,60,Weighted blanket for better sleep,Gravity,15,80x60x5,12/24/2024 13:38,12/24/2024 15:20
+176,Handheld Vacuum,49.99,Home,90,Portable handheld vacuum,Black+Decker,3,14x5x5,12/24/2024 13:38,12/24/2024 15:20
+177,Wireless Earbuds,59.99,Electronics,120,True wireless earbuds,Apple,0.1,2x2x1,12/24/2024 13:44,12/24/2024 15:20
+178,Fitness Tracker,99.99,Fitness,80,Activity tracker with heart rate monitor,Garmin,0.2,5x1x0.5,12/24/2024 13:44,12/24/2024 15:20
+179,Air Humidifier,39.99,Home,50,Ultrasonic air humidifier,Levoit,4,12x10x8,12/24/2024 13:44,12/24/2024 15:20
+180,Electric Shaver,49.99,Personal Care,100,Rechargeable electric shaver,Philips Norelco,0.5,6x3x2,12/24/2024 13:44,12/24/2024 15:20
+181,Electric Skillet,59.99,Kitchen,40,Non-stick electric skillet,Presto,4.5,18x12x6,12/24/2024 13:44,12/24/2024 15:20
+182,Table Lamp,39.99,Home,70,Adjustable LED table lamp,Ikea,2,15x8x8,12/24/2024 13:44,12/24/2024 15:20
+183,Outdoor Grill,199.99,Home,20,Outdoor electric grill,Weber,20,40x30x20,12/24/2024 13:44,12/24/2024 15:20
+184,Home Theater System,299.99,Electronics,30,Home theater system with surround sound,Sony,30,20x15x10,12/24/2024 13:44,12/24/2024 15:20
+185,Smart Speaker,99.99,Electronics,60,Smart speaker with voice control,Google,1,4x4x4,12/24/2024 13:44,12/24/2024 15:20
+186,Electric Blanket,49.99,Home,80,Electric blanket with dual control,Sunbeam,5,80x60x1,12/24/2024 13:44,12/24/2024 15:20
+187,Fitness Ball,19.99,Fitness,90,Anti-burst fitness ball,Trideer,2.5,25x25x25,12/24/2024 13:44,12/24/2024 15:20
+188,Lip Balm,4.99,Personal Care,500,Moisturizing lip balm,Burt's Bees,0.1,3x1x1,12/24/2024 13:44,12/24/2024 15:20
+189,Pressure Cooker,99.99,Kitchen,50,6-quart electric pressure cooker,Instant Pot,12,13x13x14,12/24/2024 13:44,12/24/2024 15:20
+190,Foot Massager,89.99,Personal Care,40,Electric foot massager,Miko,10,17x15x18,12/24/2024 13:44,12/24/2024 15:20
+191,Smart Thermostat,199.99,Home,30,Wi-Fi smart thermostat,Nest,1,3.3x3.3x1.2,12/24/2024 13:44,12/24/2024 15:20
+192,Electric Toothbrush,59.99,Personal Care,80,Rechargeable electric toothbrush,Oral-B,0.7,9.3x2.3x4.4,12/24/2024 13:44,12/24/2024 15:20
+193,Air Fryer,89.99,Kitchen,40,Digital air fryer,COSORI,7,11.8x12.6x11.7,12/24/2024 13:44,12/24/2024 15:20
+194,Gaming Mouse,49.99,Electronics,100,Ergonomic gaming mouse,Razer,0.3,5x2.6x1.5,12/24/2024 13:44,12/24/2024 15:20
+195,Protein Powder,39.99,Fitness,120,Whey protein powder,Optimum Nutrition,5,8x8x11,12/24/2024 13:44,12/24/2024 15:20
+196,Smart Light Bulb,24.99,Home,200,Wi-Fi smart light bulb,LIFX,0.4,5x2.5x2.5,12/24/2024 13:44,12/24/2024 15:20
+197,Shampoo,9.99,Personal Care,300,Moisturizing shampoo,Pantene,1.2,8x2.5x2.5,12/24/2024 13:44,12/24/2024 15:20
+198,Nonstick Pan,34.99,Kitchen,60,12-inch nonstick frying pan,T-fal,2,15x10x5,12/24/2024 13:44,12/24/2024 15:13
+199,Gaming Keyboard,79.99,Electronics,90,Mechanical gaming keyboard,Corsair,1.5,18x6x2,12/24/2024 13:44,12/24/2024 15:13
+200,Yoga Ball,29.99,Fitness,100,Anti-burst yoga ball,Trideer,2.5,25x25x25,12/24/2024 13:44,12/24/2024 15:13
+201,Blender,59.99,Kitchen,80,High-speed blender,Ninja,3,15x10x8,12/24/2024 13:44,12/24/2024 15:13
+202,Laptop Stand,29.99,Electronics,150,Adjustable laptop stand,Rain Design,1,12x8x2,12/24/2024 13:44,12/24/2024 15:13
+203,Wireless Charger,39.99,Electronics,200,Qi-enabled wireless charger,Anker,0.5,6x6x1,12/24/2024 13:44,12/24/2024 15:13
+204,Hair Dryer,49.99,Personal Care,100,Ceramic hair dryer,Revlon,2,12x8x4,12/24/2024 13:44,12/24/2024 15:13
+205,Electric Kettle,29.99,Kitchen,90,1.7-liter electric kettle,Hamilton Beach,1.8,9x7x7,12/24/2024 13:44,12/24/2024 15:13
+206,Smart Watch,149.99,Electronics,70,Fitness and activity tracker,Fitbit,0.1,1.6x1.6x0.5,12/24/2024 13:44,12/24/2024 15:13
+207,Exercise Bike,299.99,Fitness,40,Stationary exercise bike,Schwinn,15,50x25x50,12/24/2024 13:44,12/24/2024 15:13
+208,Face Cream,19.99,Personal Care,250,Moisturizing face cream,Neutrogena,0.3,3x3x3,12/24/2024 13:44,12/24/2024 15:13
+209,Dishwasher,499.99,Home,20,Built-in dishwasher,Bosch,20,30x25x35,12/24/2024 13:44,12/24/2024 15:13
+210,Smart Plug,24.99,Home,200,Wi-Fi smart plug,TP-Link,0.2,2x2x2,12/24/2024 13:44,12/24/2024 15:13
+211,Multivitamins,29.99,Personal Care,180,Daily multivitamin supplement,One A Day,0.5,6x3x3,12/24/2024 13:44,12/24/2024 15:13
+212,Standing Desk,299.99,Office,30,Adjustable standing desk,Varidesk,25,40x30x40,12/24/2024 13:44,12/24/2024 15:13
+213,Digital Camera,399.99,Electronics,25,High-resolution digital camera,Canon,1,15x10x8,12/24/2024 13:44,12/24/2024 15:13
+214,Electric Grill,79.99,Kitchen,55,Indoor electric grill,George Foreman,5,18x15x10,12/24/2024 13:44,12/24/2024 15:13
+215,Treadmill,999.99,Fitness,15,Foldable treadmill,NordicTrack,50,70x30x50,12/24/2024 13:44,12/24/2024 15:13
+216,Desk Lamp,19.99,Home,120,LED desk lamp,TaoTronics,1.5,10x5x5,12/24/2024 13:44,12/24/2024 15:13
+217,Noise Cancelling Headphones,199.99,Electronics,60,Wireless noise cancelling headphones,Sony,1,8x8x4,12/24/2024 13:44,12/24/2024 15:13
+218,Juicer,89.99,Kitchen,50,Centrifugal juicer,Breville,3,12x10x8,12/24/2024 13:44,12/24/2024 15:13
+219,Ebook Reader,129.99,Books,40,Portable ebook reader,Kobo,0.2,6.6x4.6x0.3,12/24/2024 13:44,12/24/2024 15:13
+220,Indoor Plant,24.99,Home,100,Live indoor house plant,Costa Farms,1,15x15x15,12/24/2024 13:44,12/24/2024 15:13
+221,Body Lotion,14.99,Personal Care,250,Hydrating body lotion,Aveeno,0.5,8x4x4,12/24/2024 13:44,12/24/2024 15:13
+222,Monitor,199.99,Electronics,80,27-inch computer monitor,Dell,10,25x18x4,12/24/2024 13:44,12/24/2024 15:13
+223,Office Chair,149.99,Office,40,Ergonomic office chair,Herman Miller,15,30x30x40,12/24/2024 13:44,12/24/2024 15:13
+224,Coffee Maker,59.99,Kitchen,100,12-cup coffee maker,Keurig,5,15x10x10,12/24/2024 13:44,12/24/2024 15:13
+225,Echo Dot,49.99,Electronics,100,Smart speaker with Alexa,Amazon,0.5,3.9x3.9x1.7,12/24/2024 14:44,12/24/2024 14:44
+226,Kindle Paperwhite,129.99,Books,100,E-reader with high resolution,Amazon,0.2,6.6x4.6x0.3,12/24/2024 14:44,12/24/2024 14:44
+227,Fire Stick,39.99,Electronics,100,Streaming media player,Amazon,0.1,3.4x1.2x0.5,12/24/2024 14:44,12/24/2024 14:44
+228,Yoga Mat,19.99,Fitness,100,Non-slip yoga mat,Gaiam,2.5,68x24x0.5,12/24/2024 14:44,12/24/2024 14:44
+229,Wireless Mouse,29.99,Electronics,100,Ergonomic wireless mouse,Logitech,0.1,4.2x2.4x1.6,12/24/2024 14:44,12/24/2024 14:44
+230,Airdryer,25.99,Personal Care,100,Portable hair dryer,Conair,1.5,10x5x3,12/24/2024 14:44,12/24/2024 14:44
+231,Nonstick Pan,35.99,Kitchen,100,12-inch nonstick frying pan,T-fal,2,15x10x5,12/24/2024 14:44,12/24/2024 14:44
+232,Gaming Keyboard,79.99,Electronics,100,Mechanical gaming keyboard,Corsair,1.5,18x6x2,12/24/2024 14:44,12/24/2024 14:44
+233,Yoga Ball,22.99,Fitness,100,Anti-burst yoga ball,Trideer,2.5,25x25x25,12/24/2024 14:44,12/24/2024 14:44
+234,Blender,99.99,Kitchen,100,High-speed blender,Ninja,3,15x10x8,12/24/2024 14:44,12/24/2024 14:44
+235,Laptop Stand,39.99,Electronics,100,Adjustable laptop stand,Rain Design,1,12x8x2,12/24/2024 14:44,12/24/2024 14:44
+236,Wireless Charger,24.99,Electronics,100,Qi-enabled wireless charger,Anker,0.5,6x6x1,12/24/2024 14:44,12/24/2024 14:44
+237,Hair Dryer,29.99,Personal Care,100,Ceramic hair dryer,Revlon,2,12x8x4,12/24/2024 14:44,12/24/2024 14:44
+238,Electric Kettle,34.99,Kitchen,100,1.7-liter electric kettle,Hamilton Beach,1.8,9x7x7,12/24/2024 14:44,12/24/2024 14:44
+239,Smart Watch,149.99,Electronics,100,Fitness and activity tracker,Fitbit,0.1,1.6x1.6x0.5,12/24/2024 14:44,12/24/2024 14:44
+240,Exercise Bike,499.99,Fitness,100,Stationary exercise bike,Schwinn,15,50x25x50,12/24/2024 14:44,12/24/2024 14:44
+241,Face Cream,14.99,Personal Care,100,Moisturizing face cream,Neutrogena,0.3,3x3x3,12/24/2024 14:44,12/24/2024 14:44
+242,Dishwasher,899.99,Home,100,Built-in dishwasher,Bosch,20,30x25x35,12/24/2024 14:44,12/24/2024 14:44
+243,Smart Plug,19.99,Home,100,Wi-Fi smart plug,TP-Link,0.2,2x2x2,12/24/2024 14:44,12/24/2024 14:44
+244,Multivitamins,12.99,Personal Care,100,Daily multivitamin supplement,One A Day,0.5,6x3x3,12/24/2024 14:44,12/24/2024 14:44
+245,Standing Desk,399.99,Office,100,Adjustable standing desk,Varidesk,25,40x30x40,12/24/2024 14:44,12/24/2024 14:44
+246,Digital Camera,549.99,Electronics,100,High-resolution digital camera,Canon,1,15x10x8,12/24/2024 14:44,12/24/2024 14:44
+247,Electric Grill,79.99,Kitchen,100,Indoor electric grill,George Foreman,5,18x15x10,12/24/2024 14:44,12/24/2024 14:44
+248,Treadmill,999.99,Fitness,100,Foldable treadmill,NordicTrack,50,70x30x50,12/24/2024 14:44,12/24/2024 14:44
+249,Desk Lamp,49.99,Home,100,LED desk lamp,TaoTronics,1.5,10x5x5,12/24/2024 14:44,12/24/2024 14:44
+250,Noise Cancelling Headphones,199.99,Electronics,100,Wireless noise cancelling headphones,Sony,1,8x8x4,12/24/2024 14:44,12/24/2024 14:44
+251,Juicer,149.99,Kitchen,100,Centrifugal juicer,Breville,3,12x10x8,12/24/2024 14:44,12/24/2024 14:44
+252,Ebook Reader,119.99,Books,100,Portable ebook reader,Kobo,0.2,6.6x4.6x0.3,12/24/2024 14:44,12/24/2024 14:44
+253,Indoor Plant,29.99,Home,100,Live indoor house plant,Costa Farms,1,15x15x15,12/24/2024 14:44,12/24/2024 14:44
+254,Body Lotion,10.99,Personal Care,100,Hydrating body lotion,Aveeno,0.5,8x4x4,12/24/2024 14:44,12/24/2024 14:44
+255,Monitor,299.99,Electronics,100,27-inch computer monitor,Dell,10,25x18x4,12/24/2024 14:44,12/24/2024 14:44
+256,Office Chair,899.99,Office,100,Ergonomic office chair,Herman Miller,15,30x30x40,12/24/2024 14:44,12/24/2024 14:44
+257,Coffee Maker,119.99,Kitchen,100,12-cup coffee maker,Keurig,5,15x10x10,12/24/2024 14:44,12/24/2024 14:44
+258,Vacuum Cleaner,499.99,Home,100,Cordless vacuum cleaner,Dyson,10,30x10x10,12/24/2024 14:44,12/24/2024 14:44
+259,Gaming Headset,99.99,Electronics,100,Surround sound gaming headset,SteelSeries,1,9x9x4,12/24/2024 14:44,12/24/2024 14:44
+260,Water Bottle,29.99,Fitness,100,Stainless steel water bottle,Hydro Flask,0.8,10x3x3,12/24/2024 14:44,12/24/2024 14:44
+261,Smart Scale,99.99,Fitness,100,Bluetooth body fat scale,Withings,2,14x14x1,12/24/2024 14:44,12/24/2024 14:44
+262,Toaster,39.99,Kitchen,100,4-slice toaster,Cuisinart,3,12x10x8,12/24/2024 14:44,12/24/2024 14:44
+263,Robot Vacuum,399.99,Home,100,Automated robot vacuum,iRobot,7,14x14x4,12/24/2024 14:44,12/24/2024 14:44
+264,Face Mask,2.99,Personal Care,100,Hydrating sheet mask,Garnier,0.2,8x6x1,12/24/2024 14:44,12/24/2024 14:44
+265,Desk Organizer,24.99,Office,100,Multi-compartment desk organizer,Rolodex,1.5,12x10x6,12/24/2024 14:44,12/24/2024 14:44

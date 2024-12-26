@@ -1,0 +1,236 @@
+rating_id,product_id,user_id,rating,review_text
+277,1,1,5,Excellent product! Highly recommended.
+278,2,2,4,Great value for money.
+279,3,3,3,Decent quality but could be better.
+280,4,4,2,"Not as described, quite disappointed."
+281,5,1,5,"Amazing product, very happy with this purchase."
+282,1,2,4,"Works well, good purchase."
+283,2,3,3,"Average product, not bad."
+284,3,4,2,Not worth the price.
+285,4,1,5,Love it! Would buy again.
+286,5,2,4,"Good product, satisfied."
+287,1,3,3,"Okay product, nothing special."
+288,2,4,2,Disappointed with the quality.
+289,3,1,5,"Fantastic product, exceeded expectations."
+290,4,2,4,"Good quality, meets expectations."
+291,5,3,3,"Average, could be better."
+292,1,4,2,"Not very good, would not recommend."
+293,2,1,5,"Excellent, very pleased with this product."
+294,3,2,4,"Good value, happy with the purchase."
+295,4,3,3,"It is okay, not great."
+296,5,4,2,"Poor quality, would not buy again."
+297,1,4,5,"The product is outstanding, absolutely love it!"
+298,2,1,4,"Good value for the price, satisfied with the purchase."
+299,3,2,3,"Average quality, expected a bit more."
+300,4,3,2,"The product did not meet my expectations, disappointed."
+301,5,4,1,"Terrible quality, would not recommend."
+302,1,1,5,"Fantastic product, exceeded my expectations."
+303,2,2,4,"Works well, overall a good buy."
+304,3,3,3,"It is okay, nothing special."
+305,4,4,2,Not what I was hoping for.
+306,5,1,5,"Amazing product, very pleased."
+307,1,2,4,"Works as described, happy with the purchase."
+308,2,3,3,"Decent product, could be better."
+309,3,4,2,Not worth the money.
+310,4,1,5,I am very satisfied with this product.
+311,5,2,4,"Good quality, reasonable price."
+312,1,3,3,"Average, expected better quality."
+313,2,4,2,Disappointed with the purchase.
+314,3,1,5,"Excellent product, highly recommend."
+315,4,2,4,"Meets expectations, good quality."
+316,5,3,3,"It is alright, not the best."
+317,1,4,5,"Absolutely love it, great product."
+318,2,1,4,Good product for the price.
+319,3,2,3,"Not bad, but not great either."
+320,4,3,2,Unsatisfied with the quality.
+321,5,4,1,"Very poor, do not recommend."
+322,1,1,4,"Great product, worth the price."
+323,2,2,5,"Exceeded my expectations, fantastic!"
+324,3,3,2,"Below average, not satisfied."
+325,4,4,3,"Just okay, could be better."
+326,5,1,5,"Superb quality, highly recommend!"
+327,1,2,3,"Average product, decent performance."
+328,2,3,4,"Good value for money, pleased with it."
+329,3,4,5,"Excellent quality, very happy with this purchase."
+330,4,1,2,"Not as described, disappointed."
+331,5,2,4,"Happy with the product, would buy again."
+332,1,3,5,Amazing! Works perfectly.
+333,2,4,3,"It is okay, not great but functional."
+334,3,1,4,"Good product, met my expectations."
+335,4,2,5,"Fantastic, very pleased with the purchase."
+336,5,3,2,"Not worth the price, poor quality."
+337,1,4,3,Satisfactory performance.
+338,2,1,5,"Very impressed, excellent value!"
+339,3,2,4,Decent quality for the price.
+340,4,3,3,"Average, does the job."
+341,5,4,1,"Terrible, would not recommend."
+342,1,1,4,"Great product, very useful."
+343,2,2,5,Outstanding! Worth every penny.
+344,3,3,2,Disappointed with the quality.
+345,4,4,3,"Not bad, but could be improved."
+346,5,1,5,Love it! Perfect for my needs.
+347,1,2,3,"It is okay, nothing special."
+348,2,3,4,"Very good product, happy with it."
+349,3,4,5,"Exceptional quality, highly recommended."
+350,4,1,2,"Not as expected, quality could be better."
+351,5,2,4,"Satisfied with the purchase, good value."
+352,1,3,5,"Top-notch product, works great."
+353,2,4,3,"Decent, but has some flaws."
+354,3,1,4,"Good quality, meets expectations."
+355,4,2,5,"Very pleased, excellent product."
+356,5,3,2,"Not what I expected, disappointed."
+357,1,4,3,"Average performance, nothing special."
+358,2,1,5,Fantastic! Highly recommend.
+359,3,2,4,Good product for the price.
+360,4,3,3,"It is okay, serves its purpose."
+361,5,4,1,"Very poor quality, do not recommend."
+362,1,1,5,"Fantastic product, very happy with it!"
+363,2,2,4,Good value for the money.
+364,3,3,3,"It is okay, meets basic needs."
+365,4,4,2,"Not satisfied, expected better."
+366,5,1,5,"Amazing quality, highly recommend!"
+367,1,2,4,"Works well, decent purchase."
+368,2,3,3,"Average product, nothing special."
+369,3,4,2,Disappointed with the performance.
+370,4,1,5,"Excellent product, very pleased."
+371,5,2,4,Satisfied with this purchase.
+372,1,3,3,"It is alright, does the job."
+373,2,4,2,Not worth the price.
+374,3,1,5,"Exceptional quality, love it!"
+375,4,2,4,"Good product, meets expectations."
+376,5,3,3,"Not bad, but could be better."
+377,1,4,5,Very happy with this product.
+378,2,1,4,Good quality for the price.
+379,3,2,3,"Decent product, nothing to write home about."
+380,4,3,2,Quality is lacking.
+381,5,4,1,"Very poor, would not recommend."
+382,1,1,5,Love it! Exceeded my expectations.
+383,2,2,4,"Solid product, good value."
+384,3,3,3,"It is okay, average quality."
+385,4,4,2,"Not impressed, expected better."
+386,5,1,5,"Top-notch product, very satisfied."
+387,1,2,4,"Good value, works well."
+388,2,3,3,"Average, but does the job."
+389,3,4,2,Not happy with the quality.
+390,4,1,5,"Fantastic product, highly recommend!"
+391,5,2,4,"Good quality, would buy again."
+392,1,3,3,"Okay product, nothing special."
+393,2,4,2,Disappointed with the quality.
+394,3,1,5,"Excellent value, very pleased."
+395,4,2,4,"Good product, reasonable price."
+396,5,3,3,"It is alright, but could be better."
+397,1,4,5,"Amazing quality, love it!"
+398,2,1,4,Satisfied with this purchase.
+399,3,2,3,"Average product, meets expectations."
+400,4,3,2,"Not worth the money, poor quality."
+401,5,4,1,"Terrible product, would not buy again."
+402,1,1,5,"Excellent product, very happy."
+403,2,2,4,Good value for the money.
+404,3,3,3,"It is okay, does the job."
+405,4,4,2,Disappointed with the performance.
+406,5,1,5,"Fantastic quality, highly recommend."
+407,1,2,4,"Good product, satisfied with the purchase."
+408,2,3,3,"Average quality, not bad."
+409,3,4,2,Not happy with this product.
+410,4,1,5,"Amazing product, very pleased."
+411,5,2,4,"Good value, works well."
+412,1,2,5,"Fantastic product, worth every penny!"
+413,2,3,4,Good value for money.
+414,3,4,3,"Average quality, but works fine."
+415,4,1,2,Expected better performance.
+416,5,2,5,Highly recommend this product!
+417,1,3,4,Satisfied with the purchase.
+418,2,4,3,"It is okay, nothing special."
+419,3,1,2,Disappointed with the quality.
+420,4,2,5,"Excellent product, very pleased."
+421,5,3,4,"Good product, meets expectations."
+422,1,4,3,"Decent product, not bad."
+423,2,1,2,Not happy with the performance.
+424,3,2,5,"Exceptional quality, very satisfied."
+425,4,3,4,"Works well, good value."
+426,5,4,3,"Average product, okay quality."
+427,1,1,2,Not worth the price.
+428,2,2,5,"Amazing product, highly recommend."
+429,3,3,4,Satisfied with the quality.
+430,4,4,3,Decent performance.
+431,5,1,2,Quality could be better.
+432,1,2,5,Love it! Exceeded my expectations.
+433,2,3,4,"Great value, happy with the purchase."
+434,3,4,3,"It is alright, does the job."
+435,4,1,2,"Not impressed, expected more."
+436,5,2,5,"Fantastic product, very happy."
+437,1,3,4,"Good quality, worth the price."
+438,2,4,3,"Average product, okay performance."
+439,3,1,2,Not satisfied with the quality.
+440,4,2,5,"Excellent, highly recommend!"
+441,5,3,4,"Good product, meets expectations."
+442,1,4,3,"Decent quality, not bad."
+443,2,1,2,"Could be better, disappointed."
+444,3,2,5,"Outstanding product, very pleased."
+445,4,3,4,Satisfied with the purchase.
+446,5,4,3,"It is okay, works fine."
+447,1,1,2,Not worth the money.
+448,2,2,5,"Great product, very happy."
+449,3,3,4,"Good value, works well."
+450,4,4,3,"Average quality, meets needs."
+451,5,1,2,Disappointed with the performance.
+452,1,2,5,"Fantastic quality, highly recommend."
+453,2,3,4,"Good product, worth the price."
+454,3,4,3,"Decent product, not bad."
+455,4,1,2,Expected better quality.
+456,5,2,5,"Love it, very satisfied!"
+457,1,3,4,Happy with this purchase.
+458,2,4,3,"It is okay, nothing special."
+459,3,1,2,Not satisfied with the performance.
+460,4,2,5,"Excellent product, very happy."
+461,5,3,4,"Good value, meets expectations."
+462,1,4,3,"Average quality, okay product."
+463,2,1,2,Not worth the price.
+464,3,2,5,"Great quality, highly recommend."
+465,4,3,4,"Works well, good product."
+466,5,4,3,"Decent performance, not bad."
+467,1,1,2,"Expected more, disappointed."
+468,2,2,5,"Fantastic product, very pleased."
+469,3,3,4,"Good quality, worth buying."
+470,4,4,3,"Okay product, meets basic needs."
+471,5,1,2,"Quality could be better, not satisfied."
+472,1,2,5,"Amazing product, highly recommend."
+473,2,3,4,"Good value, satisfied with the purchase."
+474,3,4,3,"Decent quality, does the job."
+475,4,1,2,"Not satisfied, expected more."
+476,5,2,5,Love it! Very happy with this product.
+477,1,3,4,"Good quality, worth the money."
+478,2,4,3,"It is okay, meets expectations."
+479,3,1,2,Disappointed with the performance.
+480,4,2,5,"Great product, highly recommend."
+481,5,3,4,"Good value, works well."
+482,1,4,3,"Average quality, decent product."
+483,2,1,2,Expected better quality.
+484,3,2,5,"Fantastic product, very pleased."
+485,4,3,4,"Good quality, satisfied with the purchase."
+486,5,4,3,"It is alright, meets basic needs."
+487,1,1,2,Not worth the price.
+488,2,2,5,"Great product, highly recommend."
+489,3,3,4,"Good quality, worth the money."
+490,4,4,3,"Decent product, nothing special."
+491,5,1,2,Disappointed with the quality.
+492,1,2,5,"Exceptional product, very satisfied."
+493,2,3,4,"Good value, pleased with the purchase."
+494,3,4,3,"It is okay, does the job."
+495,4,1,2,Not happy with the performance.
+496,5,2,5,"Fantastic quality, highly recommend."
+497,1,3,4,"Good product, worth the money."
+498,2,4,3,"Average quality, okay product."
+499,3,1,2,Expected better quality.
+500,4,2,5,"Great product, very happy."
+501,5,3,4,"Good value, meets expectations."
+502,1,4,3,"Decent product, not bad."
+503,2,1,2,"Not satisfied, expected more."
+504,3,2,5,"Amazing product, highly recommend."
+505,4,3,4,"Good quality, satisfied with the purchase."
+506,5,4,3,"It is alright, meets basic needs."
+507,1,1,2,Not worth the price.
+508,2,2,5,"Great product, highly recommend."
+509,3,3,4,"Good quality, worth the money."
+510,4,4,3,"Decent product, nothing special."
+511,5,1,2,Disappointed with the quality.
